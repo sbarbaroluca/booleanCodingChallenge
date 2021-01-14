@@ -1,0 +1,73 @@
+html, body {
+  font-family: sans-serif;
+  height: 100%;
+}
+
+.sfondo{
+background-image: url("./img/background.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.contenitore{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 20px;
+  padding: 20px;
+}
+.top{
+    text-align: center;
+}
+.logo {
+  width: auto;
+  height: 70px;
+}
+
+h2 {
+  color: lightgreen;
+
+}
+
+.separatore{
+  background-color: lightgreen;
+  width: 80%;
+  height: 30px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+button{
+  margin-top: 5px;
+}
+
+h3{
+  margin-bottom: 1px;
+}
+
+li {
+  color: white;
+}
+.stato1{
+  background-color: orange;
+  width: 50%;
+  height: 30px;
+  border-radius: 5px;
+
+}
+.stato2{
+  background-color:green;
+  width: 80%;
+  height: 30px;
+  border-radius: 5px;
+
+}
+.stato3{
+  background-color: red;
+  width: 20%;
+  height: 30px;
+  border-radius: 5px;
+
+}
